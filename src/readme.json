@@ -1,0 +1,161 @@
+{
+  "menu": [
+    {
+      "category": "Starters",
+      "veg": [
+        {
+          "name": "Spring Rolls",
+          "description": "Crispy vegetable rolls",
+          "price": 120,
+          "image": "/spring_rolls.jpg"
+        },
+        {
+          "name": "Paneer Tikka",
+          "description": "Grilled cottage cheese cubes",
+          "price": 230,
+          "image": "/paneer_tikka.jpg"
+        }
+      ],
+      "nonveg": [
+        {
+          "name": "Chicken Wings",
+          "description": "Spicy grilled wings",
+          "price": 250,
+          "image": "/chicken_wings.jpg"
+        },
+        {
+          "name": "Fish Fingers",
+          "description": "Crispy fried fish",
+          "price": 200,
+          "image": "/fish_fingers.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Main Course",
+      "veg": [
+        {
+          "name": "Paneer Butter Masala",
+          "description": "Cottage cheese in creamy tomato gravy",
+          "price": 280,
+          "image": "/paneer_butter_masala.jpg"
+        },
+        {
+          "name": "Veg Biryani",
+          "description": "Aromatic rice with vegetables",
+          "price": 350,
+          "image": "/veg_biryani.jpg"
+        }
+      ],
+      "nonveg": [
+        {
+          "name": "Chicken Curry",
+          "description": "Traditional chicken curry",
+          "price": 150,
+          "image": "/chicken_curry.jpg"
+        },
+        {
+          "name": "Mutton Rogan Josh",
+          "description": "Kashmiri lamb curry",
+          "price": 360,
+          "image": "/mutton_rogan_josh.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Salads",
+      "veg": [
+        {
+          "name": "Greek Salad",
+          "description": "Fresh veggies with feta cheese",
+          "price": 110,
+          "image": "/greek_salad.jpg"
+        }
+      ],
+      "nonveg": [
+        {
+          "name": "Chicken Caesar Salad",
+          "description": "Classic Caesar with grilled chicken",
+          "price": 220,
+          "image": "/chicken_caesar_salad.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Dessert",
+      "veg": [
+        {
+          "name": "Tiramisu",
+          "description": "Coffee-flavored Italian dessert",
+          "price": 260,
+          "image": "/tiramisu.jpg"
+        },
+        {
+          "name": "Gulab Jamun",
+          "description": "Indian sweet dumplings",
+          "price": 70,
+          "image": "/gulab_jamun.jpg"
+        }
+      ],
+      "nonveg": []
+    },
+    {
+      "category": "Drinks",
+      "veg": [
+        {
+          "name": "Mango Lassi",
+          "description": "Sweet mango yogurt drink",
+          "price": 95,
+          "image": "/mango_lassi.jpg"
+        },
+        {
+          "name": "Virgin Mojito",
+          "description": "Minty lime cooler",
+          "price": 55,
+          "image": "/virgin_mojito.jpg"
+        }
+      ],
+      "nonveg": [
+        {
+          "name": "Bloody Mary",
+          "description": "Classic vodka cocktail",
+          "price": 180,
+          "image": "/bloody_mary.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Today's Specials",
+      "veg": [
+        {
+          "name": "Stuffed Bell Peppers",
+          "description": "Peppers stuffed with spiced veggies",
+          "price": 240,
+          "image": "/stuffed_bell_peppers.jpg"
+        }
+      ],
+      "nonveg": [
+        {
+          "name": "Grilled Salmon",
+          "description": "Salmon fillet with lemon butter",
+          "price": 320,
+          "image": "/grilled_salmon.jpg"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Live Jazz Night",
+      "date": "2025-08-10",
+      "image": "/jazz_night.png",
+      "description": "Enjoy live jazz music with your dinner."
+    },
+    {
+      "title": "Wine Tasting",
+      "date": "2025-08-15",
+      "image": "/wine_tasting.jpg",
+      "description": "Sample a selection of fine wines."
+    }
+  ]
+}
